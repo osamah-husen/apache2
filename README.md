@@ -23,5 +23,3 @@ localhost
 
 edit the website 
 nano /var/www/html/index.html 
-
-
